@@ -15,3 +15,4 @@ apt-get install org.xbmc.kodi-atv2
 reboot
 
 When your Apple TV restarts, it should have Kodi.
+
